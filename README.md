@@ -28,6 +28,13 @@ Aplikasi ini bertujuan untuk:
 - Menjadi media belajar sekaligus hiburan.
 
 ---
+## 📱 App Screenshots
+
+| | | |
+|---|---|---|
+| ![screen1](screen1.jpg) | ![screen2](screen2.jpg) | ![screen3](screen3.jpg) |
+| ![screen4](screen4.jpg) | ![screen5](screen5.jpg) | ![screen6](screen6.jpg) |
+| ![screen7](screen7.jpg) | ![screen8](screen8.jpg) |  |
 
 ## 🚀 Instalasi
 1. Clone repository ini:
