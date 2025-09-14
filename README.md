@@ -37,6 +37,7 @@ Aplikasi ini bertujuan untuk:
 | ![screen7](screen7.jpg) | ![screen8](screen8.jpg) |  |
 
 ## 🚀 Instalasi
-1. Clone repository ini:
+1. Download APK file ke Mobile android dan Ijinkan install dari sumber tak dikenal:
    ```bash
-   git clone https://github.com/srisatya/genderbali
+   Jaminan Aplikasi Aman untuk pengguna (secure app)
+   genderbali400.apk
