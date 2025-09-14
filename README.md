@@ -40,4 +40,5 @@ Aplikasi ini bertujuan untuk:
 1. Download APK file ke Mobile android dan Ijinkan install dari sumber tak dikenal:
    ```bash
    Jaminan Aplikasi Aman untuk pengguna (secure app)
-   genderbali401.apk
+   genderbali402-signed.apk
+   Direct Download https://server.astungkarabali.xyz/s2team/genderbali
